@@ -9,6 +9,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utladal/simg-client.git"
+  },
   "dependencies": {
     "axios": "^1.8.4"
   },
