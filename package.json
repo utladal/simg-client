@@ -1,6 +1,6 @@
 {
   "name": "@utladal/simg-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "an s3 style client for a simg server",
   "license": "ISC",
   "author": "nocturnal",
